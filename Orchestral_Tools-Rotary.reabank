@@ -1,0 +1,80 @@
+//----------------------------------------------------------------------------
+// Orchestral Tools: Rotary
+// Source obey: https://github.com/...
+//----------------------------------------------------------------------------
+
+//! g="Orchestral Tools/Rotary" n="01 Solo Trumpet"
+Bank 27 55 OTR Solo Trumpet
+//! c=short i=staccato o=note:24
+40 staccatissimo
+//! c=long i=marcato-half o=note:25
+9 marcato long
+//! c=fx i=fall o=note:26
+111 short falls
+//! c=fx i=rip o=note:27
+110 scoops
+//! c=fx i=trill-maj3 o=note:28
+73 shakes
+//! c=long i=note-whole o=note:29
+1 sustains accented i
+//! c=long i=note-whole o=note:30
+2 sustains accented ii
+
+//! g="Orchestral Tools/Rotary" n="02 Trumpet Mute Solo"
+Bank 27 56 OTR Trumpet Mute Solo
+//! c=short i=staccato o=note:24
+40 staccatissimo
+//! c=long i=marcato-half o=note:25
+9 marcato long
+//! c=fx i=fall o=note:26
+111 short falls
+//! c=fx i=rip o=note:27
+110 scoops
+//! c=fx i=trill-maj3 o=note:28
+73 shakes
+//! c=long i=note-whole o=note:29
+1 sustains accented
+
+//! g="Orchestral Tools/Rotary" n="03 Trombone Solo"
+Bank 27 57 OTR Trombone Solo
+//! c=short i=staccato o=note:24
+40 staccatissimo
+//! c=long i=note-whole o=note:25
+1 sustains accented 
+//! c=long i=marcato-half o=note:26
+9 marcato long
+
+//! g="Orchestral Tools/Rotary" n="04 Baritone Sax Solo"
+Bank 27 58 OTR Baritone Sax Solo
+//! c=short i=staccato o=note:24
+40 staccatissimo
+//! c=long i=marcato-half o=note:25
+9 marcato long
+
+//! g="Orchestral Tools/Rotary" n="05 Sax Section"
+Bank 27 59 OTR Sax Section
+//! c=short i=staccato o=note:24
+40 staccatissimo
+//! c=long i=marcato-half o=note:25
+9 marcato long
+//! c=fx i=fall o=note:26
+111 short falls
+//! c=fx i=rip o=note:27
+110 scoops
+//! c=fx i=trill-maj3 o=note:28
+73 trills
+
+//! g="Orchestral Tools/Rotary" n="06 Brass Section"
+Bank 27 60 OTR Brass Section
+//! c=short i=staccato o=note:24
+40 staccatissimo
+//! c=long i=marcato-half o=note:25
+9 marcato long
+//! c=fx i=fall o=note:26
+111 short falls
+//! c=fx i=rip o=note:27
+110 scoops
+//! c=long i=note-whole o=note:28
+1 sustains accented
+//! c=fx i=trill-maj3 o=note:29
+73 shakes

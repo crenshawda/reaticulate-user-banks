@@ -1,0 +1,11 @@
+//----------------------------------------------------------------------------
+// Orchestral Tools: Helix
+// Source obey: https://github.com/...
+//----------------------------------------------------------------------------
+
+//! g="Orchestral Tools/Helix" n="String Ensemble"
+Bank 27 54 OTH String Ensemble
+//! c=short i=staccato o=note:100
+1 spicattos
+//! c=long i=note-whole o=note:101
+40 sustains

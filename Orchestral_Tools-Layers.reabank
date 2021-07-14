@@ -1,0 +1,35 @@
+//----------------------------------------------------------------------------
+// Orchestral Tools: Layers
+// Source obey: https://github.com/...
+//----------------------------------------------------------------------------
+
+//! g="Orchestral Tools/Layers" n="Orchestra"
+Bank 27 50 OTL Full Orchestra
+//! c=long i=note-whole o=note:24
+1 chords maj sustain
+//! c=long i=note-whole o=note:25
+2 chords min sustain
+//! c=long i=note-whole o=note:26
+3 chords sus4 sustain
+//! c=short i=staccato o=note:27
+40 chords maj staccato
+//! c=short i=staccato o=note:28
+41 chords min staccato
+//! c=short i=staccato o=note:29
+42 chords sus4 staccato
+//! c=long i=note-whole o=note:30
+4 sustains low unison
+//! c=short i=staccato o=note:31
+43 staccato low unison
+
+//! g="Orchestral Tools/Layers" n="Woodwinds"
+//! clone="Orchestral Tools/Layers/Orchestra"
+Bank 27 51 OTL Woodwinds
+
+//! g="Orchestral Tools/Layers" n="Brass"
+//! clone="Orchestral Tools/Layers/Orchestra"
+Bank 27 52 OTL Brass
+
+//! g="Orchestral Tools/Layers" n="Strings"
+//! clone="Orchestral Tools/Layers/Orchestra"
+Bank 27 53 OTL Strings
